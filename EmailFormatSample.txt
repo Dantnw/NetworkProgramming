@@ -1,0 +1,10 @@
+Server: smtp.googlemail.com
+User: <EMAIL ADDRESS HERE>
+Password: <PASSWORD HERE>
+To: recipient
+CC: 
+BCC: 
+Subject: This is a test
+Body: This is the body of the email. It will contain lots of text
+and linebreaks and maybe some special character(like *@&#^) just to
+make sure that everything appears to be working appropriately.
